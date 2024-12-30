@@ -1,0 +1,274 @@
+@media only screen and (max-width:2000px) {
+    
+
+*{
+    text-decoration: none;
+}
+.contaner{
+   padding-left: 15px;
+   padding-right: 15px;
+    display: flex;
+    border: 1px solid;
+    border-radius: 70px;
+    background-color:#FAFAFA;
+    height: 70PX;
+    border: none;
+}
+nav div{
+    align-items: center;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    
+}
+li a{
+    margin-right: 30px;
+    color: black;
+}
+.jin{
+    border: 1px solid;
+    border-radius: 40px;
+    height: 40px;
+    background-color: #fff;
+    border: none;
+}
+#hill{
+    margin-right: 30px;
+    height: 19px;
+justify-content: space-around;
+}
+button{
+    border: 1px solid;
+    height: 40px;
+    width: 110px;
+    letter-spacing: 2px;
+    border-radius: 40px;
+}
+.sell{
+    width: 100%;
+    border: 2px solid;
+    border: none;
+    height: 489px;
+    display: flex;
+    background-image: linear-gradient(#C1DEE8,#FBD9B9 );
+}
+.well{
+    margin-left: 76px;
+    margin-top: 90px;
+}
+#bell{
+    width: 400px;
+    font-size: 67px;
+    margin-top: -10px;
+}
+#man{
+    width: 410px;
+    margin-top: -40px;
+}
+.yell input{
+    width: 438px;
+    height: 60px;
+    border-radius: 40px;
+    border: none;
+   
+}
+label{
+    position: absolute;
+}
+#lol{
+    border: none;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    height: 62px;
+    padding: 15px;
+    border-radius: 40px;
+    width: 150px;
+    background-color: black;
+    color: #fff;
+}
+.sant{
+   margin-left: 200px;
+}
+#rap{
+    text-align: center;
+}
+#win{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.fa-regular{
+    font-size: 50px;
+    color: greenyellow;
+}
+#ull{
+    font-size: 30px;
+}
+.quin{
+    font-size: 16px;
+    width: 300px;
+    margin-top: -5px;
+}
+.fa-solid{
+    font-size: 50px;
+    color: #fea551;
+}
+#jiss{
+font-size: 30px;
+}
+#xll{
+    width: 300px;
+}
+.fa-pen-to-square{
+    color: rgb(50, 0, 187);
+}
+#csv{
+    font-size: 30px;
+}
+#one{
+    width: 300px;
+}
+.teen{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    justify-content: space-between;
+}
+#bin{
+    font-size: 16px;
+    margin: 76px;
+}
+#zin{
+    margin-top: -60px;
+    margin-left: 76px;
+    font-weight: bolder;
+}
+.pink{
+    width: 320px;
+    height: 300px;
+    border: 1px solid;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 1px 2px 2px gray;
+    
+}
+#veem{
+    width: 320px;
+    height: 150px;
+}
+#tom{
+    margin-left: 20px;
+}
+#jerry{
+    font-size: 16px;
+    margin-left: 20px;
+}
+#ring{
+    width: 90px;
+    margin-left: 20px;
+}
+.red{
+    width: 320px;
+    height: 300px;
+    border: 1px solid;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 1px 2px 2px gray;
+}
+.green{
+    width: 320px;
+    height: 300px;
+    border: 1px solid;
+    border: none;
+    border-radius: 7px;
+    box-shadow: 1px 2px 2px gray;
+}
+.hello{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.four{
+    text-align: center;
+    font-size: 50px;
+    width: 600px;
+    font-weight: bold;
+}
+.seven{
+    width: 88%;
+    border: 2px solid;
+    margin-left: 70px;
+    height: 400px;
+    display: flex;
+    border: none;
+    
+}
+.zoom{
+    width: 500px;
+    font-size: 40px;
+}
+#pump{
+    font-size: 16px;
+    width: 350px;
+}
+#axil{
+    background-color: #000;
+    color: #fff;
+}
+#qir{
+    margin-left: 30px;
+}
+.call{
+ border: 1px solid;
+ width: 100px;
+ border: none;
+}
+#fine{
+    font-size:16px ;
+    margin-top: -28px;
+}
+#when{
+    margin-top: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+#banto{
+    border: 1px solid;
+    border: none;
+}
+.tone{
+    width: 100px;
+    border: 1px solid;
+    border: none;
+}
+.wood{
+    width: 100px;
+    border: 1px solid;
+    border: none;
+}
+.rule{
+    display: flex;
+    margin-left: 10px;
+}
+#main{
+
+}
+.end{
+    width: 100%;
+    border: 2px solid;
+    border: none;
+    height: 489px;
+    display: flex;
+    background-image: linear-gradient(#C1DEE8,#FBD9B9 );
+    margin-top: 20px;
+}
+.fa-magnifying-glass{
+    color: #000;
+    font-size: 20px;
+}
+}
